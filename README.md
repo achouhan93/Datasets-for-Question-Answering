@@ -6,15 +6,21 @@
 
 #### 1. MCTEST
 
+MY COMMENTS: MCQ Question-Answer based on Stories ❎
+
 - **Dataset**: https://mattr1.github.io/mctest/data.html
 - **Publication:** https://aclanthology.org/D13-1020.pdf (2013, EMNLP)
 - **Abstract**: MCTest is a freely available set of stories and associated questions intended for research on the machine comprehension of text. MCTest requires machines to answer multiple-choice reading comprehension questions about fictional stories, directly tackling the high-level goal of open-domain machine comprehension.
 
 #### 2. WikiQA
 
+MY COMMENTS: Questions and Document information are relevant ☑️
+
 - **Dataset**: https://www.microsoft.com/en-us/download/confirmation.aspx?id=52419
 - **Publication:** https://aclanthology.org/D15-1237.pdf (2015, EMNLP)
 - **Abstract**: For research on open-domain question answering. Bing query logs were used as the question source. The corpus includes 3,047 questions and 29,258 sentences, where 1,473 sentences were labeled as answer sentences to their corresponding questions.
+
+  
 #### 3. SQuAD (v1.0)
 
 - **Dataset**: https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/
